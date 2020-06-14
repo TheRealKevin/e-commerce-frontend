@@ -1,0 +1,33 @@
+.cartImage{
+    position: relative;
+    top: 0px;
+    float: right;
+    right: 0px;
+}
+
+.cartDiv {
+    width: 50%;
+    margin-left: 24%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 29%
+}
+
+.cartTable {
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    border: 3px solid #ddd
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 8px
+}
+
+.tableImage {
+    width: 100px;
+    height: auto;
+}

@@ -1,0 +1,34 @@
+.card{
+    border-color: black;
+    text-decoration: none;
+}
+
+.pimg {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+
+a {
+    color: black;
+}
+
+.pdiv {
+    position: relative;
+    width: 30%;
+    height: 500px;
+    overflow: hidden;
+}
+
+.addToCart {
+    top: 0px;
+    right: 0px;
+    position: fixed;
+}
+
+.restdiv {
+    padding-left: 30%;
+    position: absolute;
+    bottom: 0;
+}
+

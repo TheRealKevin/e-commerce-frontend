@@ -1,0 +1,27 @@
+.Navbar {
+    width : 100%;
+    float : left;
+    margin : 0 0 3em 0;
+    padding : 0;
+    list-style: none;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+
+.product{
+    /* border: 1px solid black ; */
+    text-decoration: none;
+    width: 100%;
+    margin-left: 44%;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 150%;
+}
+
+li {
+    float : left;
+    padding: 8px 15px;
+    text-decoration: none;
+    font-weight: bold;
+    border-right: 1px solid #ccc;
+}
